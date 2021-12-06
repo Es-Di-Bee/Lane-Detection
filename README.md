@@ -2,13 +2,13 @@
 
 This program can detect the current lane on a road, for autonomous cars. It applies the algorithm on each frame of a video. The steps of the algorithm are:
 
-• Color filtering
+• *Color filtering*
 
-• Finding Region of Interest
+• *Finding Region of Interest*
 
-• Canny Edge detection
+• *Canny Edge detection*
 
-• Hough Line detection
+• *Hough Line detection*
 
 Below is a sample demonstration of how it works on a video. 
 
